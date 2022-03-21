@@ -1,2 +1,2 @@
-# a-rust-tutorial
-a Rust tutorial focused on type-theoretic and mathematical ideas
+# A Rust Tutorial
+_Rust tutorial focused on type-theoretic and mathematical ideas_
